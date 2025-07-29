@@ -33,7 +33,7 @@ To run any C program in the project:
    gcc -Wall -Wextra -Werror *.c -o program
 3. RUN:
    ./program or a.out
-
+ps: You need to write a main to run them !
 🛠 Note: All code is written in standard C99 and tested on macOS/Linux with GCC.
 
 📌 Disclaimer
